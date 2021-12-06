@@ -9,3 +9,6 @@ title("Regression of MPG on Weight")
 
 ## hol vagyok?
 getwd()
+
+table(iris)
+str(iris)
