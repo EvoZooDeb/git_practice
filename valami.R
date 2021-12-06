@@ -14,4 +14,5 @@ title("Regression of MPG on Weight")
 getwd()
 
 table(iris)
-str <- iris
+# ez így nem jó, mert felülírod az str parancsot...
+#str <- iris
