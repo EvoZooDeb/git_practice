@@ -13,3 +13,5 @@ title("Regression of MPG on Weight")
 ## hol vagyok?
 getwd()
 
+
+## még egy komment
